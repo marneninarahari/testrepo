@@ -1,2 +1,2 @@
 # Display the output
-print("Helo World, This is Nara")
+print("Hello World, This is Nara")
